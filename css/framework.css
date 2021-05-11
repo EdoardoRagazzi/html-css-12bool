@@ -68,3 +68,17 @@
     flex-basis: calc((100% / 12) * 12);
     max-width: calc((100% / 12) * 12);
 }
+
+
+/* BONUS  */
+.start-xs {
+    justify-content: flex-start;
+}
+
+.center-xs{
+    justify-content: center;
+}
+
+.end-xs {
+    justify-content: flex-end;
+}
