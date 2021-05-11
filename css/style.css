@@ -8,4 +8,9 @@
     text-align: center;
     color: black;
 }
+.box-nested {
+    background-color:#F07F80;
+    border: 1px solid white;
+    min-height: 50px;
+}
 
