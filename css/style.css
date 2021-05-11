@@ -1,6 +1,7 @@
 /* BOX STYLE */
 .box{
-    min-height: 100px;
+    min-height: 200px;
+    line-height: 200px;
     background-color:#FFC0CB;
     border: 1px solid black;
     padding: 15px;
